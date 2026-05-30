@@ -1,0 +1,6 @@
+{
+  "name": "Sidra Batool Portfolio",
+  "description": "Modern, premium personal portfolio website for Sidra Batool, Final Year Mathematics student and Aspiring AI Engineeer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
